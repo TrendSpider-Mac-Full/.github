@@ -1,6 +1,6 @@
 ## TrendSpider Mac License
 
-<img src="https://consumersiteimages.trustpilot.net/business-units/5e20584fb78afe000187b86c-198x149-1x.jpg" width="200" alt="App icon" align="left"/>
+<img src="https://play-lh.googleusercontent.com/wiM1kJPZ1QZYuUZ-ajFKSQ9cYi65HxkS0qVwbxYSwmz2Yp7bbpnSJbglG91GQPsMyA=w240-h480-rw" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>TrendSpider for macOS</h3>
@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-3.1k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io-badge/version-4.0-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.0-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
